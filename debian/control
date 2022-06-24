@@ -1,0 +1,12 @@
+Source: ros-noetic-boost-plugin-loader
+Section: misc
+Priority: optional
+Maintainer: Levi Armstrong <levi.armstrong@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), cmake, libboost-filesystem-dev, libgtest-dev <!nocheck>, ros-noetic-ros-industrial-cmake-boilerplate
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-boost-plugin-loader
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-filesystem-dev, libboost-filesystem1.67.0
+Description: Boost plugin loader implementation
