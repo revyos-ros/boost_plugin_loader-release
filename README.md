@@ -1,3 +1,26 @@
+## boost_plugin_loader (humble) - 0.2.1-1
+
+The packages in the `boost_plugin_loader` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --track humble boost_plugin_loader --edit` on `Wed, 06 Sep 2023 16:25:19 -0000`
+
+The `boost_plugin_loader` package was released.
+
+Version of package(s) in repository `boost_plugin_loader`:
+
+- upstream repository: git@github.com:tesseract-robotics/boost_plugin_loader.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## boost_plugin_loader (noetic) - 0.2.1-1
 
 The packages in the `boost_plugin_loader` repository were released into the `noetic` distro by running `/usr/bin/bloom-release boost_plugin_loader --rosdistro noetic` on `Sat, 10 Dec 2022 20:27:46 -0000`
